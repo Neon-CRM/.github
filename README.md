@@ -1,2 +1,2 @@
 # .github
-Neon CRM for MacOS - Nonprofit platform with donor management, fundraising, and membership tracking tools.
+Download Neon CRM for nonprofit management and donor tracking on MacOS and Windows. Nonprofit CRM platform.
